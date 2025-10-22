@@ -1,4 +1,4 @@
-pip install streamlit tensorflow scikit-learn numpy pandas pickle-mixin
+
 import streamlit as st
 import numpy as np
 import tensorflow as tf
